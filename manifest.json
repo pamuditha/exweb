@@ -1,0 +1,32 @@
+{
+    "background_color": "#fff",
+    "display": "standalone",
+    "theme_color": "#fff",           
+    "short_name": "I/O Eldoret",
+    "name": "I/O Eldoret",
+    "icons": [
+    {
+    "src": "favicon/ioextended18eldoret.png",
+    "type": "image/png",
+    "sizes": "48x48"
+    },
+    {
+    "src": "favicon/ioextended18eldoret.png",
+    "type": "image/png",
+    "sizes": "96x96"
+    },
+    {
+    "src": "favicon/ioextended18eldoret.png",
+    "type": "image/png",
+    "sizes": "192x192"
+    }
+    ,
+    {
+    "src": "favicon/ioextended18eldoret.png",
+    "type": "image/png",
+    "sizes": "512x512"
+    } 
+    ],
+
+    "start_url": "index.html?launcher=true"
+    }
